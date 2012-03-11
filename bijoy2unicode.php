@@ -10,7 +10,7 @@
     Description: Converts any string (no virtual length limitation) written in Bijoy fonts (SutonnyMJ etc) to Unicode format.
   
     Usage:      1. include 'bijoy2unicode.php' 
-                2.Call convertBijoyToUnicode($stringToFormat) function, Unicode formatted string will be returned.
+                2. Call convertBijoyToUnicode($stringToFormat) function, Unicode formatted string will be returned.
     
     Pre-requisite: Multibyte Support (mbstring) must be present.
   
